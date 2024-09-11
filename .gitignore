@@ -1,0 +1,17 @@
+.env
+
+# Diretórios de build
+bin/
+obj/
+
+# Configurações do Visual Studio e VSCode
+.vs/
+.vscode/
+
+# Logs e temporários
+*.log
+*.tmp
+
+# Arquivos do SQL Server
+*.mdf
+*.ldf
